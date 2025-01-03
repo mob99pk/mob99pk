@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on ML and AI
 - 📫 How to reach me ? mob99pk@hotmail.com  
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Only change is constant.
 
 <!---
